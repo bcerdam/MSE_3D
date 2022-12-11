@@ -16,6 +16,8 @@ Casos Bases/Base Cases.<br>
 (ESP) Abajo grafico que representa casos bases.<br>
 (ENG) Below a plot that represents the base cases.<br>
 
+![alt text](https://github.com/bcerdam/MSE_3D/blob/main/test_data/entropy_3D_FINAL.png?raw=true)
+
 (ESP)'white_noise_generated' = video en donde cada pixel es una serie de tiempo con ruido blanco, 
 el resto son videos sacados de youtube.<br>
 (ENG)'white_noise_generated' = video where each pixel is a time series with white noise, the rest
